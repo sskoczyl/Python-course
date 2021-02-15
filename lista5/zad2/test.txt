@@ -1,0 +1,16 @@
+[[0.        ]
+ [0.62582299]
+ [0.45786576]
+ ...
+ [0.        ]
+ [0.        ]
+ [0.09510238]]
+0.8675507828468105   Star Wars: Episode IV - A New Hope (1977)
+0.8362098349303669   Matrix, The (1999)
+0.8227451213877744   Star Wars: Episode V - The Empire Strikes Back (1980)
+0.8002349214247857   Star Wars: Episode VI - Return of the Jedi (1983)
+0.7458504689612442   E.T. the Extra-Terrestrial (1982)
+0.7286029159733108   Twelve Monkeys (a.k.a. 12 Monkeys) (1995)
+0.7265369898748615   Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)
+0.7095672455110477   Terminator, The (1984)
+0.7029872178855614   Back to the Future (1985)
